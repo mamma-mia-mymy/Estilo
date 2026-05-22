@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040357558256",
+    "project_id": "ternova-b502c",
+    "storage_bucket": "ternova-b502c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040357558256:android:45deca37b17930e86b3f35",
+        "android_client_info": {
+          "package_name": "com.example.estilo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmNR96kwlvC4nMVyh1Ke09k845HpSiJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
